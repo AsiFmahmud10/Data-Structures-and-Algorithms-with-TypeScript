@@ -14,7 +14,6 @@ function bubbleSort(arr: any) {
       console.log(arra[j], arra[j + 1]);
     }
   }
-}
 
 bubbleSort(arra);
 
