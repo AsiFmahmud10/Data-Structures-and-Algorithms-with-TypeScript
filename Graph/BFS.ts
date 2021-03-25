@@ -77,7 +77,7 @@ function bfs(sourch : number){
    }
    
 
-dfs(0)
+bfs(0)
 console.log(visit)
 
 
